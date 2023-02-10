@@ -1,4 +1,4 @@
 #!/bin/bash
-rm -r /tmp/my_first_directoty/betty
+rm /tmp/my_first_directoty/betty
 
 
